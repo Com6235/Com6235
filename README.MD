@@ -1,3 +1,6 @@
-# Com6235
+# Hi, I'm Com6235
 
-Hi! 😉
+I'm a little developer.
+I mostly write in Kotlin, Rust, and TypeScript.
+
+:cat:
